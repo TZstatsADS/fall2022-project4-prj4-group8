@@ -4,8 +4,8 @@
 
 Term: Fall 2022
 
-+ Team #
-+ Projec title: Lorem ipsum dolor sit amet
++ Team # 8
++ Projec title: Algorithm Assignment (A4, A6) 
 + Team members
 	+ He, Chengming ch3370@columbia.edu
 	+ Kim, Woonsup wk2371@columbia.edu
